@@ -1,24 +1,22 @@
-# README
+# m-Views-c (Working with Forms)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+These projects will give you a chance to actually build some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
 
-Things you may want to cover:
+In this project, you’ll build a form the old fashioned way and then the Rails way.
 
-* Ruby version
+This project was completed in line with standards provided by [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
-* System dependencies
 
-* Configuration
+### Technology:
 
-* Database creation
+* Ruby 2.4.0
+* Rails 5.2.3
+* SQLite
 
-* Database initialization
+###### Database initialization
+in your terminal ```rake db:migrate```
 
-* How to run the test suite
+###### Deployment
+You can interact with this app on ```localhost://3000```
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run ```rails server```
